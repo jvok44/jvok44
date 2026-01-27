@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Opa, eu sou o João Victor
 
-<!--
-**jvok44/jvok44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho estudado programação todos os dias, principalmente Python, e curto bastante resolver desafios de lógica.  
+Meu foco é backend, mas por enquanto estou construindo bem a base 💪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estudando
+- Python
+- Funções, lambda e comprehensions
+- Try / Except
+- Generators
+- Git & GitHub
+
+---
+
+## 🛠️ Tecnologias
+- Python 🐍
+- Git
+- GitHub
+
+---
+
+## 🎯 Objetivo
+Evoluir como desenvolvedor, aprender de verdade e construir projetos cada vez melhores 🚀
+
+---
+
+📫 GitHub: **@jvok44**
