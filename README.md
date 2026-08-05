@@ -1,12 +1,13 @@
 # 👋 Opa, eu sou o João Victor
 
-Tenho estudado programação todos os dias, principalmente Js, e curto bastante resolver desafios de lógica.  
+Tenho estudado programação todos os dias, principalmente Java, e curto bastante resolver desafios de lógica.  
 Meu foco é backend, mas por enquanto estou construindo bem a base 💪
 
 ---
 
 ## 🛠️ Tecnologias
-- HTML, CSS, Js
+- Java
+- C#
 - Git
 - GitHub
 
