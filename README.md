@@ -75,7 +75,7 @@ $ ./developer --status
 
 ### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,dotnet" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet" />
 
 <br><br>
 
