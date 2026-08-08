@@ -28,15 +28,15 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     J V O K 4 4                             ║
-║                  DEVELOPER PROFILE                          ║
+║                     J V O K 4 4                              ║
+║                  DEVELOPER PROFILE                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  STATUS       : ONLINE                                       ║
 ║  ROLE         : Developer / Backend Developer                ║
 ║  FOCUS        : Backend Engineering                          ║
-║  LANGUAGES    : Java • C# • Python                           ║
-║  INTERESTS    : APIs • Databases • Software Architecture      ║
+║  LANGUAGES    : Java • C# •                                  ║
+║  INTERESTS    : APIs • Databases • Software Architecture     ║
 ║  ENVIRONMENT  : Windows • VS Code • Git                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
